@@ -1,0 +1,8 @@
+20230521	19:03:55	267df170-6f94-48ea-aa88-f27dc4426b39	Error: Not allowed by CORS
+20230521	19:03:56	88bc776e-d203-43f9-b72a-a45317b803f7	Error: Not allowed by CORS
+20230521	19:03:57	025c361d-e70e-4bb8-b801-a990ef50f213	Error: Not allowed by CORS
+20230521	19:04:18	d08fcd30-ed2a-45eb-9c91-7a35b969bb16	Error: Not allowed by CORS
+20230521	19:04:18	ddb8de04-e1ff-435b-adce-0a8057325260	Error: Not allowed by CORS
+20230521	19:04:47	1c63e563-dcad-4688-9b12-ac5a23f9004c	Error: Not allowed by CORS
+20230521	19:05:00	6b999265-8d75-4a11-a0df-3f3004d120f7	Error: Not allowed by CORS
+20230521	19:59:21	8a887f3c-3c82-4232-8b98-ce9ae6f9da57	Error: ENOENT: no such file or directory, stat '/home/harman/projects/tutorial/tut1/views/subdir/text.html'
